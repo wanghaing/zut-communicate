@@ -9,7 +9,7 @@ import java.beans.Transient;
 
 
 @Service("groupManager")
-@Tran
+@Transactional
 public clarss GroupManagerImpl extends GenericTreeManagerImpl<Group, Long> implements GroupManager {
 
     GroupDao groupDao;

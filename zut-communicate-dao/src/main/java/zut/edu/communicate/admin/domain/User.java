@@ -1,9 +1,9 @@
 package zut.edu.communicate.admin.domain;
 
 
-import zut.edu.communicat.admin.domain.Group;
+
 import zut.edu.communicate.base.domain.BaseEntity;
-import zut.edu.communicate.dao.admin.domain.Group;
+
 
 import javax.persistence.*;
 
@@ -16,6 +16,11 @@ public class User extends BaseEntity {
 	 */
 	private static final long serialVersionUID = -4376674977047164142L;
 
+
+	@Id
+	@GeneratedValue
+	private Integer Id;
+    //注册邮箱
 	@Column(name = "EMAIL")
 	String email;
 
@@ -23,10 +28,17 @@ public class User extends BaseEntity {
 	@JoinColumn(name = "GROUP_ID")
     Group group;
 
+
+
+
 	@Column(name = "PASSWORD")
 	String password;
 	@Column(name = "USERNAME")
 	String username;
+
+	@Column()
+
+
 
 	public String getEmail() {
 		return email;

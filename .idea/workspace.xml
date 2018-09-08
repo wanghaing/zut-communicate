@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="735cfb15-bc59-4d32-9b2a-698629030c52" name="Default" comment="" />
+    <list default="true" id="735cfb15-bc59-4d32-9b2a-698629030c52" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/DaoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/DaoConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/GroupManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/GroupManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/GroupManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/GroupManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/RoleManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/RoleManagerImpl.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/zut-communicate-web/target/" />
@@ -23,8 +30,8 @@
       <file leaf-file-name="DaoConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/DaoConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="152">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,68 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RoleManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/RoleManager.java">
+      <file leaf-file-name="GroupManagerImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/GroupManagerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/UserManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/GenericManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/dao/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RoleManagerImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/RoleManagerImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/GenericGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="209">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -102,19 +52,7 @@
         <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/GroupManager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserManagerImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/UserManagerImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -122,11 +60,62 @@
       <file leaf-file-name="GenericTreeManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/GenericTreeManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
+            <state relative-caret-position="346">
               <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleManagerImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/RoleManagerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserManagerImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/UserManagerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericManagerImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/GenericManagerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dto/PageResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/utils/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/web/spring/controller/GenericController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -136,11 +125,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Gradle Kotlin DSL Build Script" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -148,22 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/domain/BaseDomain.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/GenericDao.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/GenericManager.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/GenericManager.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/GenericGenerator.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/GenericManagerImpl.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/TestApplication.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/web/spring/controller/GenericController.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/resources/GenericController.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/resources/log4j2.xml" />
-        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/user/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-dao/pom.xml" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/domain/BaseTreeEntity.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/GenericTreeDao.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/GenericTreeManagerImpl.java" />
         <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/GenericTreeManager.java" />
         <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/resources/persistence.xml" />
         <option value="$PROJECT_DIR$/zut-communicate-base/pom.xml" />
@@ -174,7 +153,6 @@
         <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/admin/dao/RoleDao.java" />
         <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/admin/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/DaoConfig.java" />
         <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/GenericGenerator.java" />
         <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/customer/dao/CustomerDao.java" />
         <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/customer/dao/FeedBackDao.java" />
@@ -189,12 +167,33 @@
         <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/service/impl/RoleManagerImpl.java" />
         <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/RoleManager.java" />
         <option value="$PROJECT_DIR$/zut-communicate-service/pom.xml" />
-        <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/GroupManagerImpl.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/RoleManagerImpl.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/UserManagerImpl.java" />
-        <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/GroupManager.java" />
         <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/domain/Test.java" />
         <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/UserManager.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/domain/User.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/utils/Constants.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Lable.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/CollectDao.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/LabelDao.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/PostsDao.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/PermissionDao.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/NotificationDao.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/ReplyDao.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Label.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Collect.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Notification.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Permission.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Posts.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Reply.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dto/PageResult.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dto/SocketMessage.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dto/UploadResult.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/communicate/enums/StateEnum.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dto/QuarkResult.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/DaoConfig.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/UserManagerImpl.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/GroupManagerImpl.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/GroupManager.java" />
+        <option value="$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/RoleManagerImpl.java" />
       </list>
     </option>
   </component>
@@ -214,9 +213,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="915" />
-    <option name="y" value="195" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="922" />
+    <option name="y" value="65" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -226,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,7 +265,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
@@ -275,115 +273,172 @@
               <item name="zut-communicate-base" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
               <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-base" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="communicate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="communicate" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
               <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-base" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
               <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
               <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
-              <item name="zut-communicate-web" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zut-communicate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zut-communicate" type="462c0819:PsiDirectoryNode" />
+              <item name="zut-communicate-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../object-detection" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -393,17 +448,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zut.communicate.enums" />
+      <recent name="zut.edu.communicate.dao.utils" />
       <recent name="" />
       <recent name="zut.edu.communicate.base.web.spring.controller" />
       <recent name="zut.edu.communicate.base.service.impl" />
-      <recent name="zut.edu.communicate.base.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\workspace\zut-communicate\zut-communicate-dao\src\main\java\zut\edu\communicate\dto" />
       <recent name="D:\java\workspace\zut-communicate\zut-communicate-service\src\main\java\zut\edu\communicate\admin\service" />
       <recent name="D:\java\workspace\zut-communicate\zut-communicate-service\src\main\java\zut\edu\communicate" />
       <recent name="D:\java\workspace\zut-communicate\zut-communicate-dao\src\main\java\zut\edu\communicate" />
       <recent name="D:\java\workspace\zut-communicate\zut-communicate-dao\src\main\java\zut\edu\communicat" />
-      <recent name="D:\java\workspace\zut-communicate\zut-communicate-dao\src\main\java\zut\edu\communicate\dao" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -482,14 +538,16 @@
       <workItem from="1532479704620" duration="965000" />
       <workItem from="1532508465386" duration="1493000" />
       <workItem from="1532574190897" duration="1261000" />
+      <workItem from="1536286655941" duration="9436000" />
+      <workItem from="1536379575452" duration="4272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28068000" />
+    <option name="totallyTimeSpent" value="44096000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -512,7 +570,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info anchor="right" id="Bean Validation" order="8" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -531,201 +589,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/user/dao/UserDao.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/resources/persistence.xml" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/resources/META-INF/persistence.xml" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/admin/domain/Role.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/web/spring/controller/GenericController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/admin/domain/Group.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/GenericDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/GenericTreeDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/domain/BaseTreeEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/domain/BaseEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/customer/dao/CustomerDao.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/customer/dao/FeedBackDao.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/customer/domain/FeedBack.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/customer/domain/Customer.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/domain/BaseDomain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/admin/domain/User.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/GenericManagerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/GenericTreeManagerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/TestApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/admin/dao/UserDao.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/admin/dao/RoleDao.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/admin/dao/GroupDao.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicat/admin/dao/RoleDao.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicat/admin/dao/GroupDao.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/dao/RoleDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/dao/GroupDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/domain/Group.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/customer/dao/CustomerDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/customer/dao/FeedBackDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/customer/domain/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/manager/impl/Admin.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/customer/domain/FeedBack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/service/impl/RoleManagerImpl.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/domain/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/GroupManagerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/GenericGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/RoleManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -733,41 +601,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/GroupManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/domain/Test.java" />
-    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/GenericTreeManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/GenericManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/UserManagerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,9 +613,351 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/customer/dao/FeedBackDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/dao/RoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/GenericTreeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/customer/dao/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/domain/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/customer/domain/FeedBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/customer/domain/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/resources/ccc.xml" />
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Lable.java" />
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/LableDao.java" />
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/admin/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Notification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1218#1219#0" expanded="true" />
+            <element signature="e#1247#1248#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
+            <element signature="e#1377#1378#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1455#1456#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1565#1566#0" expanded="true" />
+            <element signature="e#1605#1606#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1664#1665#0" expanded="true" />
+            <element signature="e#1705#1706#0" expanded="true" />
+            <element signature="e#1739#1740#0" expanded="true" />
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1803#1804#0" expanded="true" />
+            <element signature="e#1849#1850#0" expanded="true" />
+            <element signature="e#1889#1890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Permission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Posts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1160">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Reply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-609">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Collect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/domain/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/CollectDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/LabelDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/ReplyDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/PostsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/PermissionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/messages/dao/NotificationDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dto/SocketMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dto/UploadResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/communicate/enums/StateEnum.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dto/QuarkResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="134" column="33" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+            <element signature="e#1990#1991#0" expanded="true" />
+            <element signature="e#2058#2059#0" expanded="true" />
+            <element signature="e#2106#2107#0" expanded="true" />
+            <element signature="e#2179#2180#0" expanded="true" />
+            <element signature="e#2337#2338#0" expanded="true" />
+            <element signature="e#2409#2410#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/GenericDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/domain/BaseDomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/domain/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-737">
+          <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding>
+            <element signature="e#2134#2135#0" expanded="true" />
+            <element signature="e#2180#2181#0" expanded="true" />
+            <element signature="e#2234#2235#0" expanded="true" />
+            <element signature="e#2282#2283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/domain/BaseTreeEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-433">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -788,23 +968,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/GenericTreeManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-438">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/web/spring/controller/GenericController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/impl/GenericManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dto/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-dao/src/main/java/zut/edu/communicate/dao/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/dao/DaoConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="152">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/UserManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-base/src/main/java/zut/edu/communicate/base/service/GenericTreeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/GroupManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/RoleManagerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zut-communicate-service/src/main/java/zut/edu/communicate/admin/service/impl/GroupManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -825,7 +1065,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -860,7 +1100,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>zut-communicate</last-edited>
+          <last-edited>zut-communicate-dao</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -873,6 +1113,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
